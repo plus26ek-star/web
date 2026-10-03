@@ -1,4 +1,4 @@
-# SIDEIA (근데?) 공개 페이지
+# 근데? / GUNDE? 공개 페이지
 
 App Store 제출과 앱이 읽는 공개 파일. 정적 파일만 있고 외부 의존 없음.
 
@@ -6,7 +6,7 @@ App Store 제출과 앱이 읽는 공개 파일. 정적 파일만 있고 외부 
 |---|---|---|
 | `privacy.html` / `privacy-en.html` | 개인정보처리방침 (한/영) | App Store Connect 개인정보 처리방침 URL, 앱 설정 |
 | `support.html` / `support-en.html` | 지원·문의 (한/영) | App Store Connect 지원 URL |
-| `prompts.json` | 날짜를 지정한 오늘의 문장 | 앱이 내려받음 |
+| `prompts.json` | 날짜 지정 오늘의 문장 + `extra`(다른 문장으로 쓰기) | 앱이 내려받음 — **직접 고치지 않는다**: ThoughtFlow 저장소 `content/prompts/prompts.tsv` 에서 `prompts.py build` 로 만든다 |
 
 ## prompts.json
 
