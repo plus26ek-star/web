@@ -2,14 +2,6 @@
   "version": 1,
   "ko": [
     {
-      "date": "2026-10-01",
-      "text": "저녁 공기가 유난히 투명하다."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "화요일은 주머니 속에 들어갔다."
-    },
-    {
       "date": "2026-10-03",
       "text": "은행잎은 바닥에서 더 노랗다."
     },
@@ -368,17 +360,369 @@
     {
       "date": "2026-12-31",
       "text": "오늘은 파란색 배터리로 사는 기분이다."
+    },
+    {
+      "date": "2027-01-01",
+      "text": "손끝에 겨울이 오래 남아 있다."
+    },
+    {
+      "date": "2027-01-02",
+      "text": "눈사람의 코가 한쪽으로 기울었다."
+    },
+    {
+      "date": "2027-01-03",
+      "text": "새해 인사를 먼저 하고 싶은 사람은"
+    },
+    {
+      "date": "2027-01-04",
+      "text": "새 달력을 벽에 걸었다."
+    },
+    {
+      "date": "2027-01-05",
+      "text": "오늘 하루는 새 공책의 첫 장 같다."
+    },
+    {
+      "date": "2027-01-06",
+      "text": "눈 위에 처음 보는 발자국이 있었다."
+    },
+    {
+      "date": "2027-01-07",
+      "text": "올해 조금 더 해보고 싶은 것은"
+    },
+    {
+      "date": "2027-01-08",
+      "text": "눈사람이 해 뜨는 걸 걱정하고 있다."
+    },
+    {
+      "date": "2027-01-09",
+      "text": "어릴 적 썰매를 끌던 언덕이 생각났다."
+    },
+    {
+      "date": "2027-01-10",
+      "text": "눈이 그친 새벽 골목에서"
+    },
+    {
+      "date": "2027-01-11",
+      "text": "어른이 되고 나서 알게 된 것은"
+    },
+    {
+      "date": "2027-01-12",
+      "text": "겨울에만 생각나는 음식이 있다."
+    },
+    {
+      "date": "2027-01-13",
+      "text": "1월은 아직 포장을 덜 뜯었다."
+    },
+    {
+      "date": "2027-01-14",
+      "text": "한 계절에만 살 수 있다면"
+    },
+    {
+      "date": "2027-01-15",
+      "text": "좋은 소식이 올 것 같은 날이 있다."
+    },
+    {
+      "date": "2027-01-16",
+      "text": "한 해가 바뀌어도 그대로인 것은"
+    },
+    {
+      "date": "2027-01-17",
+      "text": "눈 밟는 소리가 생각보다 크다."
+    },
+    {
+      "date": "2027-01-18",
+      "text": "정류장 의자가 반쯤 젖어 있다."
+    },
+    {
+      "date": "2027-01-19",
+      "text": "같이 있으면 시간이 빨리 가는 사람이 있다."
+    },
+    {
+      "date": "2027-01-20",
+      "text": "장갑을 벗고 눈을 만져 보았다."
+    },
+    {
+      "date": "2027-01-21",
+      "text": "이번 주는 다 녹지 않은 눈 같다."
+    },
+    {
+      "date": "2027-01-22",
+      "text": "엘리베이터에 없던 층 버튼이 생겼다."
+    },
+    {
+      "date": "2027-01-23",
+      "text": "내가 자꾸 미루게 되는 것은"
+    },
+    {
+      "date": "2027-01-24",
+      "text": "난로가 오늘은 조금 수다스럽다."
+    },
+    {
+      "date": "2027-01-25",
+      "text": "처음 받은 용돈으로 산 것이 생각난다."
+    },
+    {
+      "date": "2027-01-26",
+      "text": "밤늦게 불 켜진 창문 하나를 보았다."
+    },
+    {
+      "date": "2027-01-27",
+      "text": "생각보다 내가 좋아하는 것이 많았다."
+    },
+    {
+      "date": "2027-01-28",
+      "text": "나는 눈 오는 조용한 밤이 좋다."
+    },
+    {
+      "date": "2027-01-29",
+      "text": "오늘은 시간이 눈처럼 쌓인다."
+    },
+    {
+      "date": "2027-01-30",
+      "text": "지금 가진 것 중 하나를 바꾼다면"
+    },
+    {
+      "date": "2027-01-31",
+      "text": "이유 없이 마음이 따뜻해진 순간은"
+    },
+    {
+      "date": "2027-02-01",
+      "text": "작년 이맘때의 나는"
+    },
+    {
+      "date": "2027-02-02",
+      "text": "따뜻한 국물 냄새가 복도까지 왔다."
+    },
+    {
+      "date": "2027-02-03",
+      "text": "귤껍질이 책상 위에 꽃처럼 펼쳐져 있다."
+    },
+    {
+      "date": "2027-02-04",
+      "text": "처음 만났을 때와 달라진 사람이 있다."
+    },
+    {
+      "date": "2027-02-05",
+      "text": "오늘은 엘리베이터 대신 계단으로 올라갔다."
+    },
+    {
+      "date": "2027-02-06",
+      "text": "요즘 나는 예열 중인 오븐 같다."
+    },
+    {
+      "date": "2027-02-07",
+      "text": "우체통에서 내일 날짜의 편지가 나왔다."
+    },
+    {
+      "date": "2027-02-08",
+      "text": "아무 계획 없는 하루가 생긴다면"
+    },
+    {
+      "date": "2027-02-09",
+      "text": "겨울 코트가 옷걸이에서 기지개를 켰다."
+    },
+    {
+      "date": "2027-02-10",
+      "text": "설날 아침의 부엌 소리가 떠올랐다."
+    },
+    {
+      "date": "2027-02-11",
+      "text": "기차가 떠난 뒤의 플랫폼에서"
+    },
+    {
+      "date": "2027-02-12",
+      "text": "사정을 알고 나니 다르게 보였다."
+    },
+    {
+      "date": "2027-02-13",
+      "text": "이상하게 끌리는 색깔은"
+    },
+    {
+      "date": "2027-02-14",
+      "text": "2월은 생각보다 짧게 웃는다."
+    },
+    {
+      "date": "2027-02-15",
+      "text": "시간을 한 시간만 멈출 수 있다면"
+    },
+    {
+      "date": "2027-02-16",
+      "text": "조금 쓸쓸했지만 싫지 않았다."
+    },
+    {
+      "date": "2027-02-17",
+      "text": "어릴 때보다 좋아진 것은"
+    },
+    {
+      "date": "2027-02-18",
+      "text": "창문에 김이 하얗게 서렸다."
+    },
+    {
+      "date": "2027-02-19",
+      "text": "고드름이 처마 끝에서 자라고 있다."
+    },
+    {
+      "date": "2027-02-20",
+      "text": "요즘 자주 생각나는 사람은"
+    },
+    {
+      "date": "2027-02-21",
+      "text": "서랍 깊숙한 곳에서 편지를 꺼냈다."
+    },
+    {
+      "date": "2027-02-22",
+      "text": "오늘 내 마음은 김 서린 유리창 같다."
+    },
+    {
+      "date": "2027-02-23",
+      "text": "책장을 넘기자 바람이 불어왔다."
+    },
+    {
+      "date": "2027-02-24",
+      "text": "요즘 나를 웃게 하는 것은"
+    },
+    {
+      "date": "2027-02-25",
+      "text": "주전자가 휘파람으로 나를 불렀다."
+    },
+    {
+      "date": "2027-02-26",
+      "text": "졸업식 날의 꽃다발 냄새가 났다."
+    },
+    {
+      "date": "2027-02-27",
+      "text": "따뜻한 이불 속에서 바람 소리를 들었다."
+    },
+    {
+      "date": "2027-02-28",
+      "text": "그때는 그게 최선이었다."
+    },
+    {
+      "date": "2027-03-01",
+      "text": "몇 번을 들어도 좋은 노래가 있다."
+    },
+    {
+      "date": "2027-03-02",
+      "text": "일요일 오후는 조금 말랑하다."
+    },
+    {
+      "date": "2027-03-03",
+      "text": "하루 동안 말을 하지 않는다면"
+    },
+    {
+      "date": "2027-03-04",
+      "text": "긴장이 스르르 풀리는 순간은"
+    },
+    {
+      "date": "2027-03-05",
+      "text": "요즘 들어 달라진 습관이 있다."
+    },
+    {
+      "date": "2027-03-06",
+      "text": "바람 끝이 조금 부드러워졌다."
+    },
+    {
+      "date": "2027-03-07",
+      "text": "나뭇가지 끝이 조금 붉어졌다."
+    },
+    {
+      "date": "2027-03-08",
+      "text": "말없이 기다려 준 사람이 있었다."
+    },
+    {
+      "date": "2027-03-09",
+      "text": "화분을 볕이 드는 쪽으로 옮겼다."
+    },
+    {
+      "date": "2027-03-10",
+      "text": "내 기분은 막 싹이 튼 씨앗 같다."
+    },
+    {
+      "date": "2027-03-11",
+      "text": "자고 일어나니 창밖이 온통 봄이었다."
+    },
+    {
+      "date": "2027-03-12",
+      "text": "지금 당장 떠나고 싶은 곳은"
+    },
+    {
+      "date": "2027-03-13",
+      "text": "나무들이 겨울잠에서 천천히 깨어난다."
+    },
+    {
+      "date": "2027-03-14",
+      "text": "새 학년 첫날의 교실이 떠올랐다."
+    },
+    {
+      "date": "2027-03-15",
+      "text": "햇볕 드는 벤치에 혼자 앉아 있었다."
+    },
+    {
+      "date": "2027-03-16",
+      "text": "혼자서도 괜찮은 날이 늘었다."
+    },
+    {
+      "date": "2027-03-17",
+      "text": "봄옷 중에 제일 먼저 꺼내는 것은"
+    },
+    {
+      "date": "2027-03-18",
+      "text": "3월은 조금 서두른다."
+    },
+    {
+      "date": "2027-03-19",
+      "text": "오른쪽과 왼쪽 중에 오늘은"
+    },
+    {
+      "date": "2027-03-20",
+      "text": "오랜만에 마음이 들뜬다."
+    },
+    {
+      "date": "2027-03-21",
+      "text": "해가 조금씩 길어지고 있다."
+    },
+    {
+      "date": "2027-03-22",
+      "text": "흙냄새가 오랜만에 올라왔다."
+    },
+    {
+      "date": "2027-03-23",
+      "text": "운동화 끈 하나가 풀려 있었다."
+    },
+    {
+      "date": "2027-03-24",
+      "text": "내 이야기를 끝까지 들어 주는 사람은"
+    },
+    {
+      "date": "2027-03-25",
+      "text": "겉옷 하나를 덜 입고 나섰다."
+    },
+    {
+      "date": "2027-03-26",
+      "text": "요즘 나는 리모컨 없는 텔레비전 같다."
+    },
+    {
+      "date": "2027-03-27",
+      "text": "길모퉁이를 돌자 어제의 거리가 있었다."
+    },
+    {
+      "date": "2027-03-28",
+      "text": "봄이 오면 가장 먼저"
+    },
+    {
+      "date": "2027-03-29",
+      "text": "자전거가 봄을 기다리며 서 있다."
+    },
+    {
+      "date": "2027-03-30",
+      "text": "오래전 전화번호 하나가 아직 기억난다."
+    },
+    {
+      "date": "2027-03-31",
+      "text": "비 오는 날 버스 맨 뒷자리에서"
     }
   ],
   "en": [
-    {
-      "date": "2026-10-01",
-      "text": "The evening air feels unusually clear."
-    },
-    {
-      "date": "2026-10-02",
-      "text": "Tuesday slipped into a pocket."
-    },
     {
       "date": "2026-10-03",
       "text": "Ginkgo leaves look yellower on the ground."
@@ -738,6 +1082,404 @@
     {
       "date": "2026-12-31",
       "text": "Today feels like living on a blue battery."
+    },
+    {
+      "date": "2027-01-01",
+      "text": "Winter lingered on my fingertips."
+    },
+    {
+      "date": "2027-01-02",
+      "text": "The snowman's nose tilted to one side."
+    },
+    {
+      "date": "2027-01-03",
+      "text": "The first person I want to wish a happy new year is"
+    },
+    {
+      "date": "2027-01-04",
+      "text": "I hung a new calendar on the wall."
+    },
+    {
+      "date": "2027-01-05",
+      "text": "Today is like the first page of a new notebook."
+    },
+    {
+      "date": "2027-01-06",
+      "text": "There were footprints in the snow I'd never seen before."
+    },
+    {
+      "date": "2027-01-07",
+      "text": "This year, something I'd like to do a bit more is"
+    },
+    {
+      "date": "2027-01-08",
+      "text": "The snowman is worried about the sunrise."
+    },
+    {
+      "date": "2027-01-09",
+      "text": "I remembered the hill where I used to pull my sled."
+    },
+    {
+      "date": "2027-01-10",
+      "text": "In the alley at dawn after the snow stopped"
+    },
+    {
+      "date": "2027-01-11",
+      "text": "Something I only learned as an adult is"
+    },
+    {
+      "date": "2027-01-12",
+      "text": "There's a food I only crave in winter."
+    },
+    {
+      "date": "2027-01-13",
+      "text": "January isn't fully unwrapped yet."
+    },
+    {
+      "date": "2027-01-14",
+      "text": "If I could live in only one season"
+    },
+    {
+      "date": "2027-01-15",
+      "text": "Some days feel like good news is on its way."
+    },
+    {
+      "date": "2027-01-16",
+      "text": "Something that stays the same even as the year changes is"
+    },
+    {
+      "date": "2027-01-17",
+      "text": "Snow crunches louder than I thought."
+    },
+    {
+      "date": "2027-01-18",
+      "text": "The bench at the bus stop is half wet."
+    },
+    {
+      "date": "2027-01-19",
+      "text": "There's someone time flies with."
+    },
+    {
+      "date": "2027-01-20",
+      "text": "I took off my gloves and touched the snow."
+    },
+    {
+      "date": "2027-01-21",
+      "text": "This week is like snow that hasn't fully melted."
+    },
+    {
+      "date": "2027-01-22",
+      "text": "A button for a floor that never existed appeared in the elevator."
+    },
+    {
+      "date": "2027-01-23",
+      "text": "Something I keep putting off is"
+    },
+    {
+      "date": "2027-01-24",
+      "text": "The heater is a little chatty today."
+    },
+    {
+      "date": "2027-01-25",
+      "text": "I remember what I bought with my first allowance."
+    },
+    {
+      "date": "2027-01-26",
+      "text": "Late at night, I saw a single lit window."
+    },
+    {
+      "date": "2027-01-27",
+      "text": "I liked more things than I thought."
+    },
+    {
+      "date": "2027-01-28",
+      "text": "I like quiet, snowy nights."
+    },
+    {
+      "date": "2027-01-29",
+      "text": "Today, time piles up like snow."
+    },
+    {
+      "date": "2027-01-30",
+      "text": "If I could swap one thing I have"
+    },
+    {
+      "date": "2027-01-31",
+      "text": "A moment my heart warmed for no reason was"
+    },
+    {
+      "date": "2027-02-01",
+      "text": "Around this time last year, I"
+    },
+    {
+      "date": "2027-02-02",
+      "text": "The smell of warm soup reached the hallway."
+    },
+    {
+      "date": "2027-02-03",
+      "text": "A tangerine peel lies open on the desk like a flower."
+    },
+    {
+      "date": "2027-02-04",
+      "text": "There's someone who has changed since we first met."
+    },
+    {
+      "date": "2027-02-05",
+      "text": "Today I took the stairs instead of the elevator."
+    },
+    {
+      "date": "2027-02-06",
+      "text": "Lately I'm like an oven that's still preheating."
+    },
+    {
+      "date": "2027-02-07",
+      "text": "A letter dated tomorrow came out of the mailbox."
+    },
+    {
+      "date": "2027-02-08",
+      "text": "If I had a day with no plans"
+    },
+    {
+      "date": "2027-02-09",
+      "text": "The winter coat stretched on its hanger."
+    },
+    {
+      "date": "2027-02-10",
+      "text": "The kitchen sounds of a New Year's morning came back to me."
+    },
+    {
+      "date": "2027-02-11",
+      "text": "On the platform after the train left"
+    },
+    {
+      "date": "2027-02-12",
+      "text": "Once I knew the whole story, it looked different."
+    },
+    {
+      "date": "2027-02-13",
+      "text": "A color I'm strangely drawn to is"
+    },
+    {
+      "date": "2027-02-14",
+      "text": "February smiles shorter than expected."
+    },
+    {
+      "date": "2027-02-15",
+      "text": "If I could stop time for one hour"
+    },
+    {
+      "date": "2027-02-16",
+      "text": "It was a little lonely, but I didn't mind."
+    },
+    {
+      "date": "2027-02-17",
+      "text": "Something that's gotten better since I was a kid is"
+    },
+    {
+      "date": "2027-02-18",
+      "text": "The window fogged up white."
+    },
+    {
+      "date": "2027-02-19",
+      "text": "An icicle is growing at the edge of the roof."
+    },
+    {
+      "date": "2027-02-20",
+      "text": "Someone I think about often lately is"
+    },
+    {
+      "date": "2027-02-21",
+      "text": "I took a letter from the back of the drawer."
+    },
+    {
+      "date": "2027-02-22",
+      "text": "My heart today is like a fogged-up window."
+    },
+    {
+      "date": "2027-02-23",
+      "text": "When I turned the page, a breeze blew in."
+    },
+    {
+      "date": "2027-02-24",
+      "text": "Something that makes me smile these days is"
+    },
+    {
+      "date": "2027-02-25",
+      "text": "The kettle whistled for me."
+    },
+    {
+      "date": "2027-02-26",
+      "text": "I caught the scent of graduation-day flowers."
+    },
+    {
+      "date": "2027-02-27",
+      "text": "I listened to the wind from under a warm blanket."
+    },
+    {
+      "date": "2027-02-28",
+      "text": "Back then, that was the best I could do."
+    },
+    {
+      "date": "2027-03-01",
+      "text": "There's a song I love no matter how many times I hear it."
+    },
+    {
+      "date": "2027-03-02",
+      "text": "Sunday afternoon is a little soft."
+    },
+    {
+      "date": "2027-03-03",
+      "text": "If I didn't speak for a whole day"
+    },
+    {
+      "date": "2027-03-04",
+      "text": "The moment the tension melts away is"
+    },
+    {
+      "date": "2027-03-05",
+      "text": "There's a habit that's changed lately."
+    },
+    {
+      "date": "2027-03-06",
+      "text": "The edge of the wind has softened a little."
+    },
+    {
+      "date": "2027-03-07",
+      "text": "The tips of the branches turned a little red."
+    },
+    {
+      "date": "2027-03-08",
+      "text": "There was someone who waited for me without a word."
+    },
+    {
+      "date": "2027-03-09",
+      "text": "I moved the plant to where the sun comes in."
+    },
+    {
+      "date": "2027-03-10",
+      "text": "My mood is like a seed that just sprouted."
+    },
+    {
+      "date": "2027-03-11",
+      "text": "I woke up and everything outside the window was spring."
+    },
+    {
+      "date": "2027-03-12",
+      "text": "The place I'd like to leave for right now is"
+    },
+    {
+      "date": "2027-03-13",
+      "text": "The trees are slowly waking from their winter sleep."
+    },
+    {
+      "date": "2027-03-14",
+      "text": "I remembered the classroom on the first day of a new school year."
+    },
+    {
+      "date": "2027-03-15",
+      "text": "I sat alone on a sunny bench."
+    },
+    {
+      "date": "2027-03-16",
+      "text": "There are more days I'm fine on my own."
+    },
+    {
+      "date": "2027-03-17",
+      "text": "The first spring clothes I take out are"
+    },
+    {
+      "date": "2027-03-18",
+      "text": "March is in a bit of a hurry."
+    },
+    {
+      "date": "2027-03-19",
+      "text": "Between right and left, today I'd"
+    },
+    {
+      "date": "2027-03-20",
+      "text": "I feel excited for the first time in a while."
+    },
+    {
+      "date": "2027-03-21",
+      "text": "The days are getting a little longer."
+    },
+    {
+      "date": "2027-03-22",
+      "text": "The smell of soil rose up again after a long while."
+    },
+    {
+      "date": "2027-03-23",
+      "text": "One shoelace was undone."
+    },
+    {
+      "date": "2027-03-24",
+      "text": "The person who listens to my stories to the end is"
+    },
+    {
+      "date": "2027-03-25",
+      "text": "I went out wearing one less layer."
+    },
+    {
+      "date": "2027-03-26",
+      "text": "Lately I feel like a TV without a remote."
+    },
+    {
+      "date": "2027-03-27",
+      "text": "Around the corner was yesterday's street."
+    },
+    {
+      "date": "2027-03-28",
+      "text": "When spring comes, the first thing I'll"
+    },
+    {
+      "date": "2027-03-29",
+      "text": "The bicycle stands waiting for spring."
+    },
+    {
+      "date": "2027-03-30",
+      "text": "I still remember a phone number from long ago."
+    },
+    {
+      "date": "2027-03-31",
+      "text": "In the back seat of a bus on a rainy day"
     }
-  ]
+  ],
+  "extra": {
+    "ko": [
+      "지나고 보니 고마운 일이었다.",
+      "손이 자꾸 가는 물건은",
+      "수요일은 연필처럼 가늘다.",
+      "어디든 갈 수 있는 표가 한 장 있다면",
+      "아무 일 없어서 다행인 하루였다.",
+      "십 년 뒤의 나는",
+      "주머니에서 오래된 영수증이 나왔다.",
+      "내가 제일 자주 쓰는 말은",
+      "신호를 기다리며 하늘을 올려다봤다.",
+      "오늘 머릿속은 정리 안 된 책장 같다.",
+      "오래 쓴 머그컵에 작은 금이 갔다.",
+      "계단이 오늘은 한 칸 더 많은 것 같다.",
+      "처음 가 본 동네에서 길을 잃었다.",
+      "누군가에게 꼭 하고 싶었던 말은",
+      "마음이 놓이는 소리가 있다.",
+      "빈 의자에 햇빛이 앉아 있었다."
+    ],
+    "en": [
+      "Looking back, it was something to be grateful for.",
+      "An object I keep reaching for is",
+      "Wednesday is thin like a pencil.",
+      "If I had one ticket to anywhere",
+      "It was a day I was glad nothing happened.",
+      "Ten years from now, I",
+      "An old receipt turned up in my pocket.",
+      "The words I use most often are",
+      "I looked up at the sky while waiting for the light.",
+      "My head today is like an untidy bookshelf.",
+      "My old mug has a tiny crack.",
+      "The stairs seem to have one extra step today.",
+      "I got lost in a neighborhood I'd never been to.",
+      "Something I've always wanted to tell someone is",
+      "There's a sound that puts my mind at ease.",
+      "Sunlight was sitting on the empty chair."
+    ]
+  }
 }
