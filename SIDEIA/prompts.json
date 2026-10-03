@@ -1,5 +1,742 @@
 {
-  "version": 1,
-  "ko": [],
-  "en": []
+  "ko": [
+    {
+      "date": "2026-10-01",
+      "text": "저녁 공기가 유난히 투명하다."
+    },
+    {
+      "date": "2026-10-02",
+      "text": "화요일은 주머니 속에 들어갔다."
+    },
+    {
+      "date": "2026-10-03",
+      "text": "은행잎은 바닥에서 더 노랗다."
+    },
+    {
+      "date": "2026-10-04",
+      "text": "창문을 열자 가을이 먼저 들어왔다."
+    },
+    {
+      "date": "2026-10-05",
+      "text": "가로등이 아직 잠에서 덜 깬 듯하다."
+    },
+    {
+      "date": "2026-10-06",
+      "text": "어릴 적 골목 냄새가 잠깐 났다."
+    },
+    {
+      "date": "2026-10-07",
+      "text": "나는 평소보다 천천히 신발을 신었다."
+    },
+    {
+      "date": "2026-10-08",
+      "text": "내가 기쁠 때 찾아가는 사람은"
+    },
+    {
+      "date": "2026-10-09",
+      "text": "살다 보니까 알게 된 건데"
+    },
+    {
+      "date": "2026-10-10",
+      "text": "나이가 들어갈수록"
+    },
+    {
+      "date": "2026-10-11",
+      "text": "빨간색 배터리로 사는 기분이다."
+    },
+    {
+      "date": "2026-10-12",
+      "text": "이상하게 자꾸 눈이 가는 것은"
+    },
+    {
+      "date": "2026-10-13",
+      "text": "아무도 모른다면 나는"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "불을 끄고 혼자 남았을 때"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "괜히 마음이 가벼워지는 순간은"
+    },
+    {
+      "date": "2026-10-16",
+      "text": "아침 햇빛이 오늘은 조금 차갑다."
+    },
+    {
+      "date": "2026-10-17",
+      "text": "금요일은 낙엽을 닮았다."
+    },
+    {
+      "date": "2026-10-18",
+      "text": "귤은 생각보다 둥글다."
+    },
+    {
+      "date": "2026-10-19",
+      "text": "문을 열었더니 작은 정원이 있었다."
+    },
+    {
+      "date": "2026-10-20",
+      "text": "시계가 오늘은 천천히 걷는다."
+    },
+    {
+      "date": "2026-10-21",
+      "text": "오래된 책 냄새가 다시 났다."
+    },
+    {
+      "date": "2026-10-22",
+      "text": "나는 창가에 컵 하나를 놓았다."
+    },
+    {
+      "date": "2026-10-23",
+      "text": "내가 다시 돌아간다면"
+    },
+    {
+      "date": "2026-10-24",
+      "text": "시간이 지나도 남는 것은"
+    },
+    {
+      "date": "2026-10-25",
+      "text": "요즘 나를 가장 편하게 하는 것은"
+    },
+    {
+      "date": "2026-10-26",
+      "text": "오늘의 바람은 회색에 가깝다."
+    },
+    {
+      "date": "2026-10-27",
+      "text": "목요일은 조금 길게 느껴진다."
+    },
+    {
+      "date": "2026-10-28",
+      "text": "사과 하나가 햇빛 아래 놓여 있다."
+    },
+    {
+      "date": "2026-10-29",
+      "text": "창밖에 바다가 생겨 있었다."
+    },
+    {
+      "date": "2026-10-30",
+      "text": "우산이 먼저 집에 가고 싶어 한다."
+    },
+    {
+      "date": "2026-10-31",
+      "text": "익숙한 비누 향이 스쳐갔다."
+    },
+    {
+      "date": "2026-11-01",
+      "text": "나는 주머니 속 작은 돌을 꺼냈다."
+    },
+    {
+      "date": "2026-11-02",
+      "text": "내가 가장 오래 기억하는 저녁은"
+    },
+    {
+      "date": "2026-11-03",
+      "text": "예전에는 몰랐던 것이 있다."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "하루를 하나만 남긴다면"
+    },
+    {
+      "date": "2026-11-05",
+      "text": "혼자 있을 때 더 좋아지는 것은"
+    },
+    {
+      "date": "2026-11-06",
+      "text": "가끔 마음은 접힌 우산 같다."
+    },
+    {
+      "date": "2026-11-07",
+      "text": "차가운 공기가 손등을 스쳤다."
+    },
+    {
+      "date": "2026-11-08",
+      "text": "토요일은 조금 느리게 걸었다."
+    },
+    {
+      "date": "2026-11-09",
+      "text": "호두는 손바닥 안에서 작다."
+    },
+    {
+      "date": "2026-11-10",
+      "text": "현관을 나서니 낙엽이 길을 덮고 있었다."
+    },
+    {
+      "date": "2026-11-11",
+      "text": "냉장고가 밤새 무언가를 기다린 것 같다."
+    },
+    {
+      "date": "2026-11-12",
+      "text": "먼지 속에서 오래된 오후가 떠올랐다."
+    },
+    {
+      "date": "2026-11-13",
+      "text": "나는 오늘 왼쪽 길로 걸었다."
+    },
+    {
+      "date": "2026-11-14",
+      "text": "문득 고마워지는 사람이 있다."
+    },
+    {
+      "date": "2026-11-15",
+      "text": "예전과 조금 달라진 것은"
+    },
+    {
+      "date": "2026-11-16",
+      "text": "오늘 하루가 색이라면"
+    },
+    {
+      "date": "2026-11-17",
+      "text": "창가에 앉으면 생각이 조금 느려진다."
+    },
+    {
+      "date": "2026-11-18",
+      "text": "11월의 공기는 종이처럼 얇다."
+    },
+    {
+      "date": "2026-11-19",
+      "text": "화요일은 목도리를 하고 있는 것 같다."
+    },
+    {
+      "date": "2026-11-20",
+      "text": "감은 손안에서 생각보다 묵직하다."
+    },
+    {
+      "date": "2026-11-21",
+      "text": "커튼을 걷으니 작은 숲이 있었다."
+    },
+    {
+      "date": "2026-11-22",
+      "text": "의자가 빈자리를 오래 지키고 있었다."
+    },
+    {
+      "date": "2026-11-23",
+      "text": "어릴 때 맡던 겨울 냄새가 났다."
+    },
+    {
+      "date": "2026-11-24",
+      "text": "나는 책상 위의 잎을 한쪽으로 옮겼다."
+    },
+    {
+      "date": "2026-11-25",
+      "text": "내가 다시 좋아하고 싶은 것은"
+    },
+    {
+      "date": "2026-11-26",
+      "text": "살면서 의외로 오래 남은 것은"
+    },
+    {
+      "date": "2026-11-27",
+      "text": "아무도 기다리지 않는다면 나는"
+    },
+    {
+      "date": "2026-11-28",
+      "text": "요즘 내 마음은 반쯤 열린 서랍 같다."
+    },
+    {
+      "date": "2026-11-29",
+      "text": "차가운 햇살이 바닥에 내려앉았다."
+    },
+    {
+      "date": "2026-11-30",
+      "text": "금요일은 코트 주머니에 들어갔다."
+    },
+    {
+      "date": "2026-12-01",
+      "text": "도토리는 작지만 단단하다."
+    },
+    {
+      "date": "2026-12-02",
+      "text": "골목 끝에 노을이 쌓여 있었다."
+    },
+    {
+      "date": "2026-12-03",
+      "text": "우편함이 오늘은 조용히 기다린다."
+    },
+    {
+      "date": "2026-12-04",
+      "text": "낯익은 목소리가 오래전 오후를 데려왔다."
+    },
+    {
+      "date": "2026-12-05",
+      "text": "나는 따뜻한 컵을 두 손으로 감쌌다."
+    },
+    {
+      "date": "2026-12-06",
+      "text": "나이가 들수록 이상하게 좋아지는 것은"
+    },
+    {
+      "date": "2026-12-07",
+      "text": "내가 가장 편해지는 장소는"
+    },
+    {
+      "date": "2026-12-08",
+      "text": "하루 중 하나만 천천히 보낸다면"
+    },
+    {
+      "date": "2026-12-09",
+      "text": "오늘은 마음이 작은 방 같다."
+    },
+    {
+      "date": "2026-12-10",
+      "text": "첫 겨울 공기가 입술에 닿았다."
+    },
+    {
+      "date": "2026-12-11",
+      "text": "화요일은 털모자를 쓰고 있다."
+    },
+    {
+      "date": "2026-12-12",
+      "text": "귤 하나가 식탁 위에서 환하다."
+    },
+    {
+      "date": "2026-12-13",
+      "text": "문밖에 하얀 길이 이어져 있었다."
+    },
+    {
+      "date": "2026-12-14",
+      "text": "전등이 밤새 창가를 지켰다."
+    },
+    {
+      "date": "2026-12-15",
+      "text": "어릴 적 겨울 아침이 떠올랐다."
+    },
+    {
+      "date": "2026-12-16",
+      "text": "나는 장갑 한 짝을 찾아냈다."
+    },
+    {
+      "date": "2026-12-17",
+      "text": "내가 오래 간직하고 싶은 것은"
+    },
+    {
+      "date": "2026-12-18",
+      "text": "시간이 지나서야 좋아진 것은"
+    },
+    {
+      "date": "2026-12-19",
+      "text": "아무도 보지 않는다면 나는"
+    },
+    {
+      "date": "2026-12-20",
+      "text": "마음이 조용해지는 곳이 있다."
+    },
+    {
+      "date": "2026-12-21",
+      "text": "겨울 햇살이 유리처럼 반짝인다."
+    },
+    {
+      "date": "2026-12-22",
+      "text": "수요일은 주머니 속에서 잠든 것 같다."
+    },
+    {
+      "date": "2026-12-23",
+      "text": "배 하나가 식탁 위에서 노랗다."
+    },
+    {
+      "date": "2026-12-24",
+      "text": "문을 열자 눈 내리는 들판이 펼쳐졌다."
+    },
+    {
+      "date": "2026-12-25",
+      "text": "난로가 조용히 하루를 데운다."
+    },
+    {
+      "date": "2026-12-26",
+      "text": "오래된 이불 냄새가 떠올랐다."
+    },
+    {
+      "date": "2026-12-27",
+      "text": "나는 창가에서 차를 천천히 마셨다."
+    },
+    {
+      "date": "2026-12-28",
+      "text": "내가 기분이 좋아지는 작은 일은"
+    },
+    {
+      "date": "2026-12-29",
+      "text": "살다 보니 별것 아닌 것이 남았다."
+    },
+    {
+      "date": "2026-12-30",
+      "text": "나이가 들면서 덜 중요해진 것은"
+    },
+    {
+      "date": "2026-12-31",
+      "text": "오늘은 파란색 배터리로 사는 기분이다."
+    }
+  ],
+  "en": [
+    {
+      "date": "2026-10-01",
+      "text": "The evening air feels unusually clear."
+    },
+    {
+      "date": "2026-10-02",
+      "text": "Tuesday slipped into a pocket."
+    },
+    {
+      "date": "2026-10-03",
+      "text": "Ginkgo leaves look yellower on the ground."
+    },
+    {
+      "date": "2026-10-04",
+      "text": "I opened the window and autumn came in first."
+    },
+    {
+      "date": "2026-10-05",
+      "text": "The streetlight looks like it is not fully awake yet."
+    },
+    {
+      "date": "2026-10-06",
+      "text": "For a moment, it smelled like an old childhood alley."
+    },
+    {
+      "date": "2026-10-07",
+      "text": "I put on my shoes more slowly than usual."
+    },
+    {
+      "date": "2026-10-08",
+      "text": "The person I go to when I am happy is"
+    },
+    {
+      "date": "2026-10-09",
+      "text": "Something I came to realize over time is"
+    },
+    {
+      "date": "2026-10-10",
+      "text": "As I get older"
+    },
+    {
+      "date": "2026-10-11",
+      "text": "It feels like living on a red battery."
+    },
+    {
+      "date": "2026-10-12",
+      "text": "The thing I keep looking at for no reason is"
+    },
+    {
+      "date": "2026-10-13",
+      "text": "If nobody knew, I would"
+    },
+    {
+      "date": "2026-10-14",
+      "text": "When the lights are off and I am alone"
+    },
+    {
+      "date": "2026-10-15",
+      "text": "The moment that somehow makes my heart feel lighter is"
+    },
+    {
+      "date": "2026-10-16",
+      "text": "The morning sunlight feels a little cold today."
+    },
+    {
+      "date": "2026-10-17",
+      "text": "Friday looks a little like fallen leaves."
+    },
+    {
+      "date": "2026-10-18",
+      "text": "Tangerines are rounder than I expected."
+    },
+    {
+      "date": "2026-10-19",
+      "text": "I opened the door and found a little garden."
+    },
+    {
+      "date": "2026-10-20",
+      "text": "The clock is walking slowly today."
+    },
+    {
+      "date": "2026-10-21",
+      "text": "The smell of an old book came back."
+    },
+    {
+      "date": "2026-10-22",
+      "text": "I placed a cup by the window."
+    },
+    {
+      "date": "2026-10-23",
+      "text": "If I could go back"
+    },
+    {
+      "date": "2026-10-24",
+      "text": "What remains even after time passes is"
+    },
+    {
+      "date": "2026-10-25",
+      "text": "What makes me feel most at ease these days is"
+    },
+    {
+      "date": "2026-10-26",
+      "text": "Today's wind feels close to gray."
+    },
+    {
+      "date": "2026-10-27",
+      "text": "Thursday feels a little longer."
+    },
+    {
+      "date": "2026-10-28",
+      "text": "An apple sits in the sunlight."
+    },
+    {
+      "date": "2026-10-29",
+      "text": "There was a sea outside the window."
+    },
+    {
+      "date": "2026-10-30",
+      "text": "The umbrella wants to go home first."
+    },
+    {
+      "date": "2026-10-31",
+      "text": "A familiar soap scent drifted past."
+    },
+    {
+      "date": "2026-11-01",
+      "text": "I took a small stone from my pocket."
+    },
+    {
+      "date": "2026-11-02",
+      "text": "The evening I remember the longest is"
+    },
+    {
+      "date": "2026-11-03",
+      "text": "There is something I did not know before."
+    },
+    {
+      "date": "2026-11-04",
+      "text": "If I could keep only one part of a day"
+    },
+    {
+      "date": "2026-11-05",
+      "text": "Something I like more when I am alone is"
+    },
+    {
+      "date": "2026-11-06",
+      "text": "Sometimes the heart feels like a folded umbrella."
+    },
+    {
+      "date": "2026-11-07",
+      "text": "Cold air brushed the back of my hand."
+    },
+    {
+      "date": "2026-11-08",
+      "text": "Saturday walked a little more slowly."
+    },
+    {
+      "date": "2026-11-09",
+      "text": "A walnut feels small in my palm."
+    },
+    {
+      "date": "2026-11-10",
+      "text": "When I stepped outside, leaves covered the path."
+    },
+    {
+      "date": "2026-11-11",
+      "text": "The fridge seems to have waited for something all night."
+    },
+    {
+      "date": "2026-11-12",
+      "text": "An old afternoon came back through the dust."
+    },
+    {
+      "date": "2026-11-13",
+      "text": "I walked down the road on the left today."
+    },
+    {
+      "date": "2026-11-14",
+      "text": "There is someone I suddenly feel grateful for."
+    },
+    {
+      "date": "2026-11-15",
+      "text": "The thing that has changed a little from before is"
+    },
+    {
+      "date": "2026-11-16",
+      "text": "If today were a color"
+    },
+    {
+      "date": "2026-11-17",
+      "text": "Thoughts slow down a little by the window."
+    },
+    {
+      "date": "2026-11-18",
+      "text": "The November air feels thin as paper."
+    },
+    {
+      "date": "2026-11-19",
+      "text": "Tuesday feels like it is wearing a scarf."
+    },
+    {
+      "date": "2026-11-20",
+      "text": "A persimmon feels heavier than expected in my hand."
+    },
+    {
+      "date": "2026-11-21",
+      "text": "I pulled back the curtain and found a little forest."
+    },
+    {
+      "date": "2026-11-22",
+      "text": "The chair had been guarding its empty place."
+    },
+    {
+      "date": "2026-11-23",
+      "text": "It smelled like the winters of childhood."
+    },
+    {
+      "date": "2026-11-24",
+      "text": "I moved the leaf on the desk to one side."
+    },
+    {
+      "date": "2026-11-25",
+      "text": "What I would like to learn to love again is"
+    },
+    {
+      "date": "2026-11-26",
+      "text": "What has unexpectedly stayed with me is"
+    },
+    {
+      "date": "2026-11-27",
+      "text": "If I were waiting for no one, I would"
+    },
+    {
+      "date": "2026-11-28",
+      "text": "These days, my mind feels like a half-open drawer."
+    },
+    {
+      "date": "2026-11-29",
+      "text": "Cold sunlight settled on the floor."
+    },
+    {
+      "date": "2026-11-30",
+      "text": "Friday slipped into a coat pocket."
+    },
+    {
+      "date": "2026-12-01",
+      "text": "An acorn is small but solid."
+    },
+    {
+      "date": "2026-12-02",
+      "text": "Sunset had gathered at the end of the alley."
+    },
+    {
+      "date": "2026-12-03",
+      "text": "The mailbox is quietly waiting today."
+    },
+    {
+      "date": "2026-12-04",
+      "text": "A familiar voice brought back an old afternoon."
+    },
+    {
+      "date": "2026-12-05",
+      "text": "I wrapped both hands around a warm cup."
+    },
+    {
+      "date": "2026-12-06",
+      "text": "Something I strangely like more as I get older is"
+    },
+    {
+      "date": "2026-12-07",
+      "text": "The place where I feel most at ease is"
+    },
+    {
+      "date": "2026-12-08",
+      "text": "If I could spend one part of the day slowly"
+    },
+    {
+      "date": "2026-12-09",
+      "text": "Today, my mind feels like a small room."
+    },
+    {
+      "date": "2026-12-10",
+      "text": "The first winter air touched my lips."
+    },
+    {
+      "date": "2026-12-11",
+      "text": "Tuesday is wearing a wool hat."
+    },
+    {
+      "date": "2026-12-12",
+      "text": "A tangerine looks bright on the table."
+    },
+    {
+      "date": "2026-12-13",
+      "text": "A white path continued outside the door."
+    },
+    {
+      "date": "2026-12-14",
+      "text": "The lamp kept watch by the window all night."
+    },
+    {
+      "date": "2026-12-15",
+      "text": "A winter morning from childhood came back to me."
+    },
+    {
+      "date": "2026-12-16",
+      "text": "I found one lost glove."
+    },
+    {
+      "date": "2026-12-17",
+      "text": "What I would like to keep for a long time is"
+    },
+    {
+      "date": "2026-12-18",
+      "text": "What I only came to like with time is"
+    },
+    {
+      "date": "2026-12-19",
+      "text": "If nobody were watching, I would"
+    },
+    {
+      "date": "2026-12-20",
+      "text": "There is a place where my mind becomes quiet."
+    },
+    {
+      "date": "2026-12-21",
+      "text": "Winter sunlight sparkles like glass."
+    },
+    {
+      "date": "2026-12-22",
+      "text": "Wednesday feels asleep inside a pocket."
+    },
+    {
+      "date": "2026-12-23",
+      "text": "A pear sits yellow on the table."
+    },
+    {
+      "date": "2026-12-24",
+      "text": "I opened the door to a snowy field."
+    },
+    {
+      "date": "2026-12-25",
+      "text": "The heater quietly warms the day."
+    },
+    {
+      "date": "2026-12-26",
+      "text": "The smell of an old blanket came back."
+    },
+    {
+      "date": "2026-12-27",
+      "text": "I slowly drank tea by the window."
+    },
+    {
+      "date": "2026-12-28",
+      "text": "A small thing that lifts my mood is"
+    },
+    {
+      "date": "2026-12-29",
+      "text": "Living through things, I found that small things remain."
+    },
+    {
+      "date": "2026-12-30",
+      "text": "Something that has become less important as I have gotten older is"
+    },
+    {
+      "date": "2026-12-31",
+      "text": "Today feels like living on a blue battery."
+    }
+  ]
 }
